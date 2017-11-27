@@ -7,3 +7,4 @@ Setup
 ```
 npm install
 ```
+ass babel
