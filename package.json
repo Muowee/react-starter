@@ -4,6 +4,7 @@
   "description": "Starter crated with the tutorial: https://www.andrewhfarmer.com/build-your-own-starter",
   "main": "index.js",
   "scripts": {
+    "compile": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

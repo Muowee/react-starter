@@ -7,4 +7,10 @@ Setup
 ```
 npm install
 ```
-ass babel
+ 
+Compile
+---
+ 
+```
+npm run compile
+```
