@@ -1,0 +1,20 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "Starter crated with the tutorial: https://www.andrewhfarmer.com/build-your-own-starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muowee/react-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muowee/react-starter/issues"
+  },
+  "homepage": "https://github.com/Muowee/react-starter#readme"
+}
