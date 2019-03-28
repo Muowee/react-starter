@@ -1,5 +1,5 @@
 # react-stater
-React Starter crated with the tutorial: https://www.andrewhfarmer.com/build-your-own-starter
+React Starter created with the tutorial: https://www.andrewhfarmer.com/build-your-own-starter
 
 
 Usage
